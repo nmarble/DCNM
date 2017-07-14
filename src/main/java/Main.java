@@ -18,7 +18,7 @@ public class Main extends Application {
 
         //Create all the menu bar items
         setUpMenu();
-
+        //file:///C|/FOO.BAR
         Image logo = new Image("logo.png");
         ImageView logoImage = new ImageView();
         logoImage.setImage(logo);
